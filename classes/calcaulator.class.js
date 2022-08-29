@@ -2,7 +2,7 @@
 var calcaulatorService = require('../services/calculate.service');
 
 // *****************************************
-// Calculator class - init 2 numbers and operator and clculate them.
+// Calculator class - init 2 numbers and operator and calculate them.
 // *****************************************
 
 class Calcaulator{
